@@ -13,4 +13,6 @@ setTimeout(function(){
     document.querySelector("#cn-banner > div > div > div.cn-close-btn").click();
 }, 1000); // replace 1000 with the number of milliseconds you want to wait before executing the function
 
-
+setTimeout(function(){
+    document.querySelector("#__next > div.\\!hidden.md\\:\\!flex.css-1vvfvd7 > div > div.css-114juwz").click();
+}, 1000);
