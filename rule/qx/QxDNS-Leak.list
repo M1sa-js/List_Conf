@@ -1,0 +1,13 @@
+# DNS Leak
+host-suffix,dnsleaktest.com
+host-suffix,dnsleak.com
+host-suffix,expressvpn.com
+host-suffix,nordvpn.com
+host-suffix,surfshark.com
+host-suffix,ipleak.net
+host-suffix,perfect-privacy.com
+host-suffix,browserleaks.com
+host-suffix,browserleaks.org
+host-suffix,vpnunlimited.com
+host-suffix,whoer.net
+host-suffix,whrq.net
